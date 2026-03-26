@@ -1,0 +1,190 @@
+{
+  "Python Basics": {
+    "name": "Python Basics",
+    "questions": [
+      {
+        "text": "What is the output of: print(type(10))",
+        "options": [
+          "<class 'int'>",
+          "<class 'float'>",
+          "<class 'str'>",
+          "<class 'list'>"
+        ],
+        "correct_answer": "<class 'int'>",
+        "subject": "Python Basics",
+        "difficulty": "easy",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "Which of the following is a mutable data type?",
+        "options": [
+          "tuple",
+          "string",
+          "list",
+          "int"
+        ],
+        "correct_answer": "list",
+        "subject": "Python Basics",
+        "difficulty": "easy",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "What is list comprehension?",
+        "options": [
+          "Creating lists",
+          "Deleting lists",
+          "Copying lists",
+          "Sorting lists"
+        ],
+        "correct_answer": "Creating lists",
+        "subject": "Python Basics",
+        "difficulty": "medium",
+        "times_asked": 0,
+        "times_correct": 0
+      }
+    ]
+  },
+  "Data Structures": {
+    "name": "Data Structures",
+    "questions": [
+      {
+        "text": "Which data structure uses LIFO?",
+        "options": [
+          "Queue",
+          "Stack",
+          "Array",
+          "Linked List"
+        ],
+        "correct_answer": "Stack",
+        "subject": "Data Structures",
+        "difficulty": "easy",
+        "times_asked": 1,
+        "times_correct": 1
+      },
+      {
+        "text": "Which data structure uses FIFO?",
+        "options": [
+          "Stack",
+          "Tree",
+          "Queue",
+          "Graph"
+        ],
+        "correct_answer": "Queue",
+        "subject": "Data Structures",
+        "difficulty": "easy",
+        "times_asked": 1,
+        "times_correct": 1
+      },
+      {
+        "text": "What is the time complexity of binary search?",
+        "options": [
+          "O(n)",
+          "O(log n)",
+          "O(n\u00b2)",
+          "O(1)"
+        ],
+        "correct_answer": "O(log n)",
+        "subject": "Data Structures",
+        "difficulty": "hard",
+        "times_asked": 0,
+        "times_correct": 0
+      }
+    ]
+  },
+  "OOP": {
+    "name": "OOP",
+    "questions": [
+      {
+        "text": "What does 'self' represent?",
+        "options": [
+          "The class itself",
+          "Current instance",
+          "A special variable",
+          "A method"
+        ],
+        "correct_answer": "Current instance",
+        "subject": "OOP",
+        "difficulty": "medium",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "What is inheritance?",
+        "options": [
+          "Creating objects",
+          "Hiding data",
+          "Reusing code",
+          "Overloading operators"
+        ],
+        "correct_answer": "Reusing code",
+        "subject": "OOP",
+        "difficulty": "medium",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "Which concept allows multiple forms?",
+        "options": [
+          "Encapsulation",
+          "Inheritance",
+          "Polymorphism",
+          "Abstraction"
+        ],
+        "correct_answer": "Polymorphism",
+        "subject": "OOP",
+        "difficulty": "hard",
+        "times_asked": 0,
+        "times_correct": 0
+      }
+    ]
+  },
+  "Databases": {
+    "name": "Databases",
+    "questions": [
+      {
+        "text": "What does SQL stand for?",
+        "options": [
+          "Structured Query Language",
+          "Simple Query Language",
+          "System Query Language",
+          "Standard Query Language"
+        ],
+        "correct_answer": "Structured Query Language",
+        "subject": "Databases",
+        "difficulty": "easy",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "Which command retrieves data?",
+        "options": [
+          "INSERT",
+          "UPDATE",
+          "SELECT",
+          "DELETE"
+        ],
+        "correct_answer": "SELECT",
+        "subject": "Databases",
+        "difficulty": "easy",
+        "times_asked": 0,
+        "times_correct": 0
+      },
+      {
+        "text": "What is a primary key?",
+        "options": [
+          "Unique identifier",
+          "Foreign key",
+          "Duplicate key",
+          "Composite key"
+        ],
+        "correct_answer": "Unique identifier",
+        "subject": "Databases",
+        "difficulty": "medium",
+        "times_asked": 0,
+        "times_correct": 0
+      }
+    ]
+  }
+}
